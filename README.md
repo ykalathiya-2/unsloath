@@ -114,11 +114,3 @@ unsloath/
 - [Kaggle Tutorial](https://www.kaggle.com/code/kingabzpro/fine-tuning-llms-using-unsloth)
 - [Ollama Export Guide](https://docs.unsloth.ai/tutorials/how-to-finetune-llama-3-and-export-to-ollama)
 
----
-
-## 👤 Author
-**Yash Kalathiya**  
-CMPE-255 Data Mining - Fall 2025  
-San Jose State University
-
----
