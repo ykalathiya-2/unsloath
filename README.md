@@ -25,37 +25,35 @@ This repository contains 5 colab notebooks demonstrating different LLM fine-tuni
 - **Model**: SmolLM2-135M
 - **Method**: Full fine-tuning (all parameters updated)
 - **Dataset**: Synthetic QA pairs from research paper
-- **YouTube**: [Video Link]
+- **YouTube**: [Video Link](https://drive.google.com/file/d/1XDPS5i-p6zmkCDvV88WtxZ9rXgijykU2/view?usp=drive_link)
 
 ### Colab 2: LoRA Fine-tuning
 - **File**: `colab2_lora_finetuning.ipynb`
 - **Model**: SmolLM2-135M
 - **Method**: LoRA (Parameter Efficient Fine-tuning)
 - **Dataset**: Same as Colab 1
-- **YouTube**: [Video Link]
+- **YouTube**: [Video Link](https://drive.google.com/file/d/1fpW_0uVxAuC7301CwlzBBvbKGJ0vPVwK/view?usp=drive_link)
 
 ### Colab 3: RLHF with DPO
 - **File**: `colab3_rlhf.ipynb`
-- **Model**: SmolLM2 or Llama-3.2-3B
+- **Model**: Llama-3.2-3B
 - **Method**: Direct Preference Optimization
 - **Dataset**: Preferred and rejected responses
-- **YouTube**: [Video Link]
+- **YouTube**: [Video Link](https://drive.google.com/file/d/1xzk92Q5QEri0Hn1za_7ymWDZvt1EYbLF/view?usp=drive_link)
 
 ### Colab 4: GRPO Reasoning
 - **File**: `colab4_grpo_reasoning.ipynb`
-- **Model**: SmolLM2 or reasoning model
+- **Model**: Llama-3.2-3B
 - **Method**: Group Relative Policy Optimization
 - **Dataset**: Math/coding problems
-- **YouTube**: [Video Link]
+- **YouTube**: [Video Link](https://drive.google.com/file/d/1bXKgZCWig7iggAa7EqkjjA1iNvYxmuTs/view?usp=drive_link)
 
 ### Colab 5: Continued Pre-training
 - **File**: `colab5_continued_pretraining.ipynb`
 - **Model**: Base LLM
 - **Method**: Continued pre-training
 - **Dataset**: New language/domain corpus
-- **YouTube**: [Video Link]
-
-
+- **YouTube**: [Video Link](https://drive.google.com/file/d/1u98b1Cw8SJed1maf8yzDENz51m6A99ke/view?usp=drive_link)
 
 ---
 
